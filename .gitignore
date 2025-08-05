@@ -205,3 +205,65 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm/IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Data or model artifacts (if not needed in repo)
+data/
+models/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Notebook outputs (if large or not useful)
+*.ipynb
+
+# CSV or Excel files (if auto-generated or large datasets)
+*.csv
+*.xlsx
+
+# Image placeholders (if temporary or not essential)
+cover-not-found.jpg
+
+# Log files
+*.log
+
+# Tagged text (if generated)
+tagged_description.txt
+
+# Gradio temp files (if any)
+gradio/
+
+# Other
+*.bak
+*.swp
+

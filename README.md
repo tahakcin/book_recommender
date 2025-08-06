@@ -1,0 +1,2 @@
+# Book Recommender
+This repository is a project built by following FreeCodeCamp’s “Book Recommender” tutorial. The goal of the project is to semantically recommend the most suitable books to the user based on the topic they’re interested in and the emotion they want the book to convey. 
